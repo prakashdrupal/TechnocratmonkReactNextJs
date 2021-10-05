@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
 import PricingPlanStyle1 from '@/components/PricingPlan/PricingPlanStyle1'
@@ -8,12 +8,12 @@ import PricingPlanStyle3 from '@/components/PricingPlan/PricingPlanStyle3'
 import PricingPlanStyle4 from '@/components/PricingPlan/PricingPlanStyle4'
 import PricingPlanStyle5 from '@/components/PricingPlan/PricingPlanStyle5'
 import PartnerStyle2 from '@/components/Common/PartnerStyle2'
-import FooterStyleOne from '@/components/_App/FooterStyleOne' 
+import FooterStyle from '@/components/_App/FooterStyle' 
  
 const Pricing = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle1 
                 pageTitle="Pricing Plan"
@@ -40,7 +40,7 @@ const Pricing = () => {
                 <AppDownloadStyle2 />
             </div>
             
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import ClientFeedbackStyle1 from '@/components/Feedbacks/ClientFeedbackStyle1'
 import ClientFeedbackStyle2 from '@/components/Feedbacks/ClientFeedbackStyle2'
@@ -8,12 +8,12 @@ import ClientFeedbackStyle4 from '@/components/Feedbacks/ClientFeedbackStyle4'
 import ClientFeedbackStyle5 from '@/components/Feedbacks/ClientFeedbackStyle5'
 import ClientFeedbackStyle6 from '@/components/Feedbacks/ClientFeedbackStyle6'
 import PartnerStyle3 from '@/components/Common/PartnerStyle3'
-import FooterStyleOne from '@/components/_App/FooterStyleOne' 
+import FooterStyle from '@/components/_App/FooterStyle' 
  
 const Feedback = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle1 
                 pageTitle="Feedback"
@@ -38,7 +38,7 @@ const Feedback = () => {
 
             <PartnerStyle3 />
  
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }
