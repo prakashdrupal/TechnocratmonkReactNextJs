@@ -6,7 +6,7 @@ const Preloader = () => {
             <div className="preloader-area">
                 <div className="d-table">
                     <div className="d-table-cell">
-                        <img src="/images/black-logo.png" alt="logo" />
+                        <img src="/images/logo.png" alt="logo"  width="200" height="70" />
                         <p>Loading...</p>
                     </div>
                 </div>
