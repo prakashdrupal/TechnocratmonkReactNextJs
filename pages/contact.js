@@ -9,7 +9,6 @@ const Contact = () => {
     return (
         <>
             <NavbarStyle /> 
-
             <PageBannerStyle1 
                 pageTitle="Contact Us"
                 homePageUrl="/"
