@@ -3,7 +3,7 @@
 import React from "react";
 import Link from '@/utils/ActiveLink';
 
-const NavbarStyleThree = () => {
+const NavbarStyleTwo = () => {
     const [menu, setMenu] = React.useState(true)
  
     const toggleNavbar = () => {
@@ -27,13 +27,13 @@ const NavbarStyleThree = () => {
 
     return (
         <>
-            <div id="navbar" className="navbar-area navbar-style-three">
+            <div id="navbar" className="navbar-area navbar-style-two">
                 <div className="texap-nav">
                     <div className="container">
                         <nav className="navbar navbar-expand-md navbar-light bg-light">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img src="/images/logo.png" alt="logo" />
+                                    <img src="/images/logo.png" alt="logo"  width="200" height="70" />
                                 </a>
                             </Link>
 
@@ -54,49 +54,11 @@ const NavbarStyleThree = () => {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="#" activeClassName="active">
-                                            <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
+                                        <Link href="/" activeClassName="active">
+                                            <a onClick={e => e.preventDefault()} className="nav-link">
                                                 Home
                                             </a>
                                         </Link>
-
-                                        <ul className="dropdown-menu">
-                                            <li className="nav-item">
-                                                <Link href="/" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 1</a>
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link href="/index-2" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 2</a>
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link href="/index-3" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 3</a>
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link href="/index-4" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 4</a>
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link href="/index-5" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 5</a>
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link href="/index-6" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">Home Demo - 6</a>
-                                                </Link>
-                                            </li>
-                                        </ul>
                                     </li>
 
                                     <li className="nav-item">
@@ -330,4 +292,4 @@ const NavbarStyleThree = () => {
     );
 }
 
-export default NavbarStyleThree;
+export default NavbarStyleTwo;

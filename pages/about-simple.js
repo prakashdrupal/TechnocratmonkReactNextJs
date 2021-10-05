@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import FunfactStyleOne from '@/components/Common/FunfactStyleOne'
 import AppProgressStyle2 from '@/components/Common/AppProgressStyle2'
@@ -7,14 +7,14 @@ import SoftwareIntegrationsTwo from '@/components/Common/SoftwareIntegrationsTwo
 import TeamMemberStyle1 from '@/components/Common/TeamMemberStyle1'
 import PartnerStyle3 from '@/components/Common/PartnerStyle3'
 import ClientFeedbackStyle1 from '@/components/Feedbacks/ClientFeedbackStyle1'
-import FooterStyleOne from '@/components/_App/FooterStyleOne'
+import FooterStyle from '@/components/_App/FooterStyle'
 import Link from 'next/link'
 import ScrollAnimation from 'react-animate-on-scroll'
  
 const AboutSimple = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle1 
                 pageTitle="About Us"
@@ -87,7 +87,7 @@ const AboutSimple = () => {
 
             <ClientFeedbackStyle1 />
 
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }

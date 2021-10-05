@@ -14,7 +14,7 @@ const FooterStyleOne = () => {
                     <div className="footer-content">
                         <Link href="/">
                             <a className="logo">
-                                <img src="/images/logo2.png" alt="logo" />
+                                <img src="/images/logo2.png" width="200" height="70" alt="logo" />
                             </a>
                         </Link>
 
@@ -74,7 +74,7 @@ const FooterStyleOne = () => {
                             </li>
                         </ul>
 
-                        <p className="copyright">Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                        <p className="copyright">Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://www.technocratmonk.com/" target="_blank">Technocratmonk</a></p>
                     </div>
                 </div>
             </div>

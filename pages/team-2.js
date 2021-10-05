@@ -1,13 +1,13 @@
 import React from 'react'
-import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle2 from '@/components/Common/PageBannerStyle2'
 import AppDownloadStyle1 from '@/components/Common/AppDownloadStyle1'
-import FooterStyleTwo from '@/components/_App/FooterStyleTwo'
+import FooterStyle from '@/components/_App/FooterStyle'
  
 const Team2 = () => {
     return (
         <>
-            <NavbarStyleTwo /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle2 
                 pageTitle="Meet With Our Team Member"
@@ -298,7 +298,7 @@ const Team2 = () => {
                 <AppDownloadStyle1 />
             </div>
   
-            <FooterStyleTwo />
+            <FooterStyle />
         </>
     )
 }

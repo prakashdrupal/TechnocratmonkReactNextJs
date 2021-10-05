@@ -1,13 +1,13 @@
 import React from 'react'
-import NavbarStyleThree from '@/components/_App/NavbarStyleThree'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle3 from '@/components/Common/PageBannerStyle3'
 import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
-import FooterStyleOne from '@/components/_App/FooterStyleOne'
+import FooterStyle from '@/components/_App/FooterStyle'
  
 const Features = () => {
     return (
         <>
-            <NavbarStyleThree /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle3 
                 pageTitle="Products Features"
@@ -157,7 +157,7 @@ const Features = () => {
                 <AppDownloadStyle2 />
             </div>
 
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }

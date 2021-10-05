@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import AppScreenshotsStyle1 from '@/components/AppScreenshots/AppScreenshotsStyle1'
 import AppScreenshotsStyle2 from '@/components/AppScreenshots/AppScreenshotsStyle2'
@@ -9,12 +9,12 @@ import AppScreenshotsStyle5 from '@/components/AppScreenshots/AppScreenshotsStyl
 import AppScreenshotsStyle6 from '@/components/AppScreenshots/AppScreenshotsStyle6'
 import SoftwareIntegrations from '@/components/Common/SoftwareIntegrations'
 import AppDownloadStyle1 from '@/components/Common/AppDownloadStyle1'
-import FooterStyleOne from '@/components/_App/FooterStyleOne'
+import FooterStyle from '@/components/_App/FooterStyle'
  
 const Screenshots = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle1 
                 pageTitle="Screenshots"
@@ -45,7 +45,7 @@ const Screenshots = () => {
                 <AppDownloadStyle1 />
             </div>
  
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }

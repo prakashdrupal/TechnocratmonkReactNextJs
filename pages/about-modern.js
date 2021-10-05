@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle2 from '@/components/Common/PageBannerStyle2'
 import AppProgressStyle4 from '@/components/Common/AppProgressStyle4'
 import AppDownloadStyle1 from '@/components/Common/AppDownloadStyle1'
@@ -9,14 +9,14 @@ import IntroVideo from '@/components/Common/IntroVideo'
 import TeamMemberStyle2 from '@/components/Common/TeamMemberStyle2'
 import SoftwareIntegrations from '@/components/Common/SoftwareIntegrations'
 import PartnerStyle3 from '@/components/Common/PartnerStyle3'
-import FooterStyleTwo from '@/components/_App/FooterStyleTwo'
+import FooterStyle from '@/components/_App/FooterStyle'
 import Link from 'next/link'
 import ScrollAnimation from 'react-animate-on-scroll'
 
 const AboutModern = () => {
     return (
         <>
-            <NavbarStyleTwo /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle2 
                 pageTitle="About Us"
@@ -84,7 +84,7 @@ const AboutModern = () => {
 
             <SoftwareIntegrations />
 
-            <FooterStyleTwo />
+            <FooterStyle />
         </>
     )
 }

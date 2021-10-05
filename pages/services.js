@@ -1,14 +1,14 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import AppDownloadStyle1 from '@/components/Common/AppDownloadStyle1'
-import KeyFeatures from '@/components/HomeDemo1/KeyFeatures'
-import FooterStyleOne from '@/components/_App/FooterStyleOne' 
+import KeyFeatures from '@/components/Home/KeyFeatures'
+import FooterStyle from '@/components/_App/FooterStyle' 
  
 const Services = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyle /> 
 
             <PageBannerStyle1 
                 pageTitle="Services"
@@ -89,7 +89,7 @@ const Services = () => {
                 <AppDownloadStyle1 />
             </div>
  
-            <FooterStyleOne />
+            <FooterStyle />
         </>
     )
 }
