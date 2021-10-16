@@ -1,4 +1,5 @@
 import React from 'react'
+import Head from 'next/head'
 import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle2 from '@/components/Common/PageBannerStyle2'
 import AppProgressStyle4 from '@/components/Common/AppProgressStyle4'
@@ -15,7 +16,16 @@ import ScrollAnimation from 'react-animate-on-scroll'
 
 const AboutModern = () => {
     return (
-        <>
+        <>  
+            <Head>
+                <title>About Us #Technocrat Monk</title>
+                <meta name="description" content="About Us #Technocrat Monk" />
+                <meta property="og:title" content="About Us #Technocrat Monk" />
+                <meta property="og:description" content="About Us #Technocrat Monk" />
+                <meta property="og:url" content="https://myclothingstore.com/" />
+                <meta property="og:type" content="website" />
+                <link rel="icon" href="/favicon.ico" />
+            </Head>
             <NavbarStyle /> 
 
             <PageBannerStyle2 

@@ -13,9 +13,19 @@ import FooterStyle from '@/components/_App/FooterStyle'
  import Grid18 from '@/components/Services/Grid18'
  import Grid19 from '@/components/Services/Grid19'
  import PartnerStyle1 from '@/components/Common/PartnerStyle1'
+ import Head from 'next/head'
 const Services = () => {
     return (
         <>
+            <Head>
+                <title>Search Engine Marketing Services – Technocrat Monk</title>
+                <meta name="description" content="Come to my store for great apparel!" />
+                <meta property="og:title" content="Search Engine Marketing Services – Technocrat Monk" />
+                <meta property="og:description" content="Come to my store for great apparel!" />
+                <meta property="og:url" content="https://myclothingstore.com/" />
+                <meta property="og:type" content="website" />
+                <link rel="icon" href="/favicon.ico" />
+            </Head>
             <NavbarStyle /> 
 
             <PageBannerStyle1 
