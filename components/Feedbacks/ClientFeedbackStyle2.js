@@ -18,7 +18,7 @@ const ClientFeedbackStyle2 = () => {
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">CLIENT REVIEWS</span>
-                        <h2>What Our Customer Say About Us</h2>
+                        <h2>What Customer Says</h2>
                     </div>
 
                     <Swiper 
@@ -39,14 +39,14 @@ const ClientFeedbackStyle2 = () => {
                                 <div className="client-info">
                                     <img src="/images/user/user1.jpg" alt="user" />
                                     <div className="title">
-                                        <h3>Deanna Hodges</h3>
-                                        <span>Spotify Developer</span>
+                                        <h3>FunkiIndia—</h3>
+                                        {/* <span>Spotify Developer</span> */}
                                     </div>
                                 </div>
 
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type. Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
+                                <p>Quality of SEO Service is too good as provided by technocrat monk. They first understood how my business functions and then they amended their strategy accordingly and that’s when I knew chose the right agency.</p>
                                 
-                                <div className="rating">
+                                {/* <div className="rating">
                                     <h5>Theme Customization</h5>
                                     <div>
                                         <i className="ri-star-fill"></i>
@@ -55,7 +55,7 @@ const ClientFeedbackStyle2 = () => {
                                         <i className="ri-star-fill"></i>
                                         <i className="ri-star-fill"></i>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </SwiperSlide>
 
@@ -64,12 +64,12 @@ const ClientFeedbackStyle2 = () => {
                                 <div className="client-info">
                                     <img src="/images/user/user2.jpg" alt="user" />
                                     <div className="title">
-                                        <h3>Londynn Vargas</h3>
-                                        <span>PHP Developer</span>
+                                        <h3>Sarafa Bazar</h3>
+                                        {/* <span>PHP Developer</span> */}
                                     </div>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type. Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                <div className="rating">
+                                <p>Since the implementation of technocrat monk's campaigns, we have seen a 100% increase in traffic as well as an improvement in qualified leads by over 60%. Along the way, the team was highly adaptive, versatile, and organized. Customers can expect an effective partnership.</p>
+                                {/* <div className="rating">
                                     <h5>Theme Customization</h5>
                                     <div>
                                         <i className="ri-star-fill"></i>
@@ -78,7 +78,7 @@ const ClientFeedbackStyle2 = () => {
                                         <i className="ri-star-fill"></i>
                                         <i className="ri-star-fill"></i>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </SwiperSlide>
 
@@ -87,12 +87,12 @@ const ClientFeedbackStyle2 = () => {
                                 <div className="client-info">
                                     <img src="/images/user/user3.jpg" alt="user" />
                                     <div className="title">
-                                        <h3>James Andy</h3>
-                                        <span>Moodle Developer</span>
+                                        <h3>Jsonworld</h3>
+                                        {/* <span>Moodle Developer</span> */}
                                     </div>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type. Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
-                                <div className="rating">
+                                <p>Technocrat Monk delivers SEO consulting and services. We connected them for my technical blog and consultation. They increase 50x times my website traffic. I'm still working with them.</p>
+                                {/* <div className="rating">
                                     <h5>Theme Customization</h5>
                                     <div>
                                         <i className="ri-star-fill"></i>
@@ -101,7 +101,7 @@ const ClientFeedbackStyle2 = () => {
                                         <i className="ri-star-fill"></i>
                                         <i className="ri-star-line"></i>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </SwiperSlide>
                     </Swiper>

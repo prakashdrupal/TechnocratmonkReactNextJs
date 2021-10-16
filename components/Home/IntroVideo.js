@@ -21,8 +21,8 @@ const IntroVideo = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="intro-video-content">
                                 <span className="sub-title">INTRO VIDEO</span>
-                                <h2>Watch Our Most Watched Texap App Video</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began. Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
+                                <h2>A Capable SEO Strategist Crew</h2>
+                                <p>Digital businesses need sustained search engine traffic, strong long-term branding, and high-conversion rates if they are to thrive. That’s where a modern, forward-thinking SEO-focused content marketing agency — Technocrat Monk — comes into the picture.</p>
 
                                 <Link href="/contact">
                                     <a className="default-btn">Get Started</a>

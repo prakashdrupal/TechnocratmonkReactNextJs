@@ -42,10 +42,10 @@ const AppProgressStyle2 = () => {
 
                         <div className="col-lg-6 col-md-12">
                             <div className="app-progress-content text-white">
-                                <span className="sub-title">APP PROGRESS</span>
-                                <h2>Set Up The Challenges and Track Your Progress</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. never missyour chance its just began. backup just log in with your mail account from.</p>
-                                <p>Most provabily best  for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy  backup just log in with your mail account from.</p>
+                                 {/* <span className="sub-title">APP PROGRESS</span> */}
+                                <h2>We Lead from the Front</h2>
+                                <p>It’s time to rocket your brand online hence you should modernize your outlook. We can surely enhance your business and boost the conversion rate of your customers into quality leads. With our excellent search engine and social approaches, we optimize your websites and give you comprehensive results.</p>
+                                
                                 
                                 <Link href="/sign-in">
                                     <a className="default-btn">Start Free Trial</a>

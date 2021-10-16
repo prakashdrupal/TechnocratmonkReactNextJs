@@ -11,8 +11,8 @@ const MainBanner = () => {
                         <div className="col-lg-6 col-md-12 p-0">
                             <div className="banner-content">
                                 <span className="sub-title">Get your 14 days free trail</span>
-                                <h1>The Revolutionary App That Makes Your Life Easier Than Others</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id tincidunt eifend odio viverra diam aliquet donec again.</p>
+                                <h1>Test SEO-focused Content Marketing That Drives Results</h1>
+                                <p>Marketing Strategy, Content Creation, Promotion, SEO, Social Media.- Tailored content marketing solution to suit all your needs.</p>
 
                                 <Link href="/sign-in">
                                     <a className="default-btn">Start Free Trial</a>
