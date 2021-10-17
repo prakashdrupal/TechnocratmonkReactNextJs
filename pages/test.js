@@ -4,10 +4,8 @@ import NavbarStyle from "@/components/_App/NavbarStyle";
 import PageBannerStyle2 from "@/components/Common/PageBannerStyle2";
 import FooterStyle from "@/components/_App/FooterStyle";
 import Link from "next/link";
-import axios from "axios";
 import getConfig from "next/config";
 import { useRouter } from "next/router";
-import useSWR from "swr";
 
 //const baseURL = "https://api.rojgarcareer.com/api/v1";
 
