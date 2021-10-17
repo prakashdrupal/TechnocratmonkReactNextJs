@@ -28,8 +28,8 @@ const IndexPage2 = () => {
 
             <IntroVideo />
 
-            {/* <AppScreenshotsStyle2 />comment AppProgressStyle2 */}
-
+             {/* <AppScreenshotsStyle2 /> */}
+.
             <SoftwareIntegrationsTwo />
 
             <ClientFeedbackStyle2 />

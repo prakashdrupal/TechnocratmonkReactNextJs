@@ -50,12 +50,12 @@ const IntroVideo = () => {
                     </div>
                 </div>
             </div>
-
+           
             {/* If you want to change the video need to update videoID */}
             <ModalVideo 
                 channel='youtube' 
                 isOpen={!isOpen} 
-                videoId='bk7McNUjWgw' 
+                videoId='65KxEe4MgqI' 
                 onClose={() => setIsOpen(!isOpen)} 
             />
         </>

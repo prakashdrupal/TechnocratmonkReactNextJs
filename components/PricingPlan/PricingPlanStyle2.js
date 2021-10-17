@@ -27,12 +27,17 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 10 Website</li>
-                                    <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
-                                    <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-close-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-close-line"></i> Live Support</li>
+                                   
+                                    <li><i className="ri-check-line"></i> Up to 15 Keywords</li>
+                                    <li><i className="ri-check-line"></i>SEO Website Audit</li>
+                                    <li><i className="ri-check-line"></i>Business Strategy Plan</li>
+                                    <li><i className="ri-check-line"></i>On Page Optimization</li>
+                                    <li><i className="ri-check-line"></i>Technical SEO Optimization</li>
+                                    <li><i className="ri-check-line"></i>On page Blog Submission</li>
+                                    <li><i className="ri-check-line"></i>Offsite Blog</li>
+                                    <li><i className="ri-check-line"></i>Guest Post </li>
+                                    <li><i className="ri-check-line"></i>Google Updates Track</li>
+                                    <li><i className="ri-check-line"></i>Reporting</li>
                                 </ul>
                             </div>
                         </div>
@@ -53,12 +58,16 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 200 Website</li>
-                                    <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 25 GB Dedicated Hosting free</li>
-                                    <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-check-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-close-line"></i> Live Support</li>
+                                    <li><i className="ri-check-line"></i> Up to 25 Keywords</li>
+                                    <li><i className="ri-check-line"></i> SEO Website Audit</li>
+                                    <li><i className="ri-check-line"></i> Business Strategy Plan</li>
+                                    <li><i className="ri-check-line"></i> On Page Optimization</li>
+                                    <li><i className="ri-check-line"></i> Technical SEO Optimization</li>
+                                    <li><i className="ri-check-line"></i> On page Blog Submission</li>
+                                    <li><i className="ri-check-line"></i> Offsite Blog</li>
+                                    <li><i className="ri-check-line"></i> Guest Post </li>
+                                    <li><i className="ri-check-line"></i> Google Updates Track</li>
+                                    <li><i className="ri-check-line"></i> Reporting</li>
                                 </ul>
                             </div>
                         </div>
@@ -78,12 +87,16 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 500 Website</li>
-                                    <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 50 GB Dedicated Hosting free</li>
-                                    <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-check-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-check-line"></i> Live Support</li>
+                                    <li><i className="ri-check-line"></i> Up to 40 Keywords</li>
+                                    <li><i className="ri-check-line"></i> SEO Website Audit</li>
+                                    <li><i className="ri-check-line"></i> Business Strategy Plan</li>
+                                    <li><i className="ri-check-line"></i> On Page Optimization</li>
+                                    <li><i className="ri-check-line"></i> Technical SEO Optimization</li>
+                                    <li><i className="ri-check-line"></i> On page Blog Submission</li>
+                                    <li><i className="ri-check-line"></i> Offsite Blog</li>
+                                    <li><i className="ri-check-line"></i> Guest Post </li>
+                                    <li><i className="ri-check-line"></i> Google Updates Track</li>
+                                    <li><i className="ri-check-line"></i> Reporting</li>
                                 </ul>
                             </div>
                         </div>

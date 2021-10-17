@@ -17,11 +17,16 @@ export default function Grid1() {
                     </div>
                     <div className="col-lg-7 col-md-7 col-sm-12 col-12">
                     <div className="banner-content ">
-                                <h2 className="pt-4">YouTube Video Promotion</h2>
-                                <p className="pt-3">We help in making proper promotion in order to reach the audience. Even if you want or ever wish to market the videos on YouTube or On Facebook, we take this step in order
-                                 to easily reach the targeted market. We find out a great way with our research works to reach the targeted niche and accomplish your business goals as fast as you can. We being the top YouTube video marketing company in India can help you by giving new ideas regarding the videos that can be effectual for your channel. All you need is pre-planning in order to boost the customer base, views, and engagement. We make sure that your brand becomes a brand by creating appealing videos.
+                                <h2 className="pt-4">Link Building:</h2>
+                                <p className="pt-3">Earning backlinks to your website from genuine, high-quality websites is the single biggest way to rank higher in Google. However, it is quite a tall order to produce link-worthy content and get it published on such sites.</p>
+ <p>That’s where we come in. Our time-tested outreach tactics will ensure you build a healthy link profile that results in high rankings.
                                 </p>
-                                
+                                <h5>What You’ll Get</h5>
+                                <p>•	Custom, result-oriented link building strategy</p>
+                                <p>•	Quality backlinks acquired from high authority websites</p>
+                                <p>•	Tangible increase in rankings and domain authority</p>
+                                <p>•	Increase in the online visibility of your brand </p>
+
 
                                 <Link href="/">
                                     <a className="default-btn">Start Free Trial</a>

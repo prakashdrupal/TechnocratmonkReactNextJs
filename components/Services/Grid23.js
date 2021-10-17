@@ -10,13 +10,16 @@ export default function Grid1() {
                    
                     <div className="col-lg-7 col-md-7 col-sm-12 col-12">
                     <div className="banner-content ml-0 w-content ">
-                                <h2 className="pt-4">Technocrat Monk's YouTube Video Marketing Services</h2>
-                                <ul className="pt3">
-                                <li>Informative and appealing videos</li>
-                                <li>More likes and shares</li>
-                                <li>Acquire more audience</li>
-                                
-                                </ul>
+                                <h2 className="pt-4">Local SEO:</h2>
+                                <p>Get this — 46% of all Google searches are looking for local information, and over 28% of local searches become purchases.<br/>
+But that’s not it — 92% of searchers will pick businesses on the first page of local search results. So, it’s time to put your business on the map. Our competent local SEO team will get you in front of the right customers at the right time.
+</p>
+                             <h5> What You’ll Get</h5>
+                             <p>•	Complete Google My Business setup</p>
+                             <p>•	NAP optimization strategy & execution</p>
+                             <p>•	Local content and links strategy & execution</p>
+                             <p>•	Well-optimized and improved website from Local SEO stand-point</p>
+
 
                                 <Link href="/">
                                     <a className="default-btn">Start Free Trial</a>

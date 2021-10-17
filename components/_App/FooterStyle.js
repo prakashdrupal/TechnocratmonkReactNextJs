@@ -14,36 +14,27 @@ const FooterStyleOne = () => {
                     <div className="footer-content">
                         <Link href="/">
                             <a className="logo">
-                                <img src="/images/logo2.png" width="200" height="70" alt="logo" />
+                                <img src="/images/footer-logo.png" width="200" height="70" alt="logo" />
                             </a>
                         </Link>
 
                         <ul className="social-links">
                             <li>
-                                <a href="https://www.facebook.com/" target="_blank">
+                                <a href="https://www.facebook.com/technocratmonk" target="_blank">
                                     <i className="ri-facebook-fill"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/" target="_blank">
+                                <a href="https://twitter.com/technocratmonk" target="_blank">
                                     <i className="ri-twitter-fill"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/" target="_blank">
+                                <a href="https://www.linkedin.com/company/technocratmonk/" target="_blank">
                                     <i className="ri-linkedin-fill"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.messenger.com/" target="_blank">
-                                    <i className="ri-messenger-fill"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/" target="_blank">
-                                    <i className="ri-github-fill"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
 
                         <ul className="navbar-nav">

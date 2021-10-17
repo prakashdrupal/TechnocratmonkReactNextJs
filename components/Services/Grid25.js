@@ -10,19 +10,9 @@ export default function Grid1() {
                    
                     <div className="col-lg-7 col-md-7 col-sm-12 col-12">
                     <div className="banner-content ml-0 w-content ">
-                                <h2 className="pt-4">Tools, which you can use with us</h2>
-                                <ul>
-                                <li>Google Webmaster</li>
-                                <li>Google Ads</li>
-                                <li>Google Merchant Center</li>
-                                <li>Google Analytics</li>
-                                <li>Google Keyword Planner</li>
-                                <li>Google Tag Manager</li>
-                                <li>Ahref</li>
-                                <li>Semrush</li>
-                                <li>Screaming Frog</li>
-                                <li>Google Trends</li>
-                                </ul>
+                                <h2 className="pt-4">YouTube Video Optimization</h2>
+                                <p>Optimizing the current videos present on your channel has a lot to do on your promotional strategy. We have a strong and knowledgeable YouTube SEO team, who can place the contents in a way that it gets easily tracked.</p>
+                                <p>After proper and in-depth research made by the team, we execute them to acquire great results. For more information, you can directly talk to us today.</p>
 
                                 <Link href="/">
                                     <a className="default-btn">Start Free Trial</a>

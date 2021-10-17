@@ -4,10 +4,10 @@ import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import KeyFeatures4 from '@/components/Services/KeyFeatures4'
 import FooterStyle from '@/components/_App/FooterStyle' 
  import Servicesvideo5 from '@/components/Services/servicesVideo5'
- import Grid20 from '@/components/Services/Grid20'
- import Grid21 from '@/components/Services/Grid21'
- import Grid22 from '@/components/Services/Grid22'
- import Grid23 from '@/components/Services/Grid23'
+ import Grid24 from '@/components/Services/Grid24'
+ import Grid25 from '@/components/Services/Grid25'
+ import Grid26 from '@/components/Services/Grid26'
+import Grid27 from '@/components/Services/Grid27'
  import PartnerStyle1 from '@/components/Common/PartnerStyle1'
 const Services = () => {
     return (
@@ -61,10 +61,10 @@ const Services = () => {
             </div>
 <Servicesvideo5/>
 <PartnerStyle1/>
-<Grid20/>
-<Grid21/>
-<Grid22/>
-<Grid23/>
+<Grid24/>
+<Grid25/>
+<Grid26/>
+<Grid27/>
 
 
             <KeyFeatures4 />

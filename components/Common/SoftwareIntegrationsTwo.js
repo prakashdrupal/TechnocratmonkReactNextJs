@@ -11,9 +11,8 @@ const SoftwareIntegrationsTwo = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="software-integrations-content white-color">
                                 <span className="sub-title">SOFTWARE INTEGRATIONS</span>
-                                <h2>Easy & Perfect Solution With Latest Software Integrations</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. never missyour chance its just began. backup just log in with your mail account from.</p>
-                                <p>Most provabily best  for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy.</p>
+                                <h2>Ready to grow with a digital marketing agency you can trust? Get your free proposal today:</h2>
+                                <p>Our digital marketing experts have put together thousands of successful digital marketing campaigns for businesses looking to increase leads, phone calls, transactions, and qualified website traffic. They’ll do the same for you. Request a free strategy proposal and get a game plan for elite revenue generation.</p>
 
                                 <Link href="/contact">
                                     <a className="default-btn">Get Started</a>

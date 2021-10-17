@@ -17,8 +17,9 @@ export default function Grid1() {
                     </div>
                     <div className="col-lg-7 col-md-7 col-sm-12 col-12">
                     <div className="banner-content ">
-                                <h2 className="pt-4">Advance SEO with Tracking</h2>
-                                <p className="pt-3">As a digital marketing company, we understand the need to keep a track on the website’s performance. After making the strategies, we want to stay assured that it is doing well for your website and which is why we keep tracking and optimizing depending on the performance. In this course, we will get the information about tracking the website and campaign performance.
+                                <h2 className="pt-4">How Technocrat Monk Can Help?
+YouTube Channel Audit</h2>
+                                <p className="pt-3">We make a complete audit of the channel and videos. Give us a chance to have a look at your content that is presently there and with our best practices we can actually aid in getting the video proper views and likes that it deserves. We will find out the points that are lacking you back along with biggest competitors present in the niche.
                                 </p>
                                 
 

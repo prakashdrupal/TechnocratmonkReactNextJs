@@ -1,17 +1,15 @@
 import React from 'react'
 import NavbarStyle from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
-import KeyFeatures2 from '@/components/Services/KeyFeatures2'
+import KeyFeatures4 from '@/components/Services/KeyFeatures4'
 import FooterStyle from '@/components/_App/FooterStyle' 
  import Servicesvideo4 from '@/components/Services/servicesVideo4'
- import Grid12 from '@/components/Services/Grid12'
- import Grid13 from '@/components/Services/Grid13'
- import Grid14 from '@/components/Services/Grid14'
- import Grid15 from '@/components/Services/Grid15'
- import Grid16 from '@/components/Services/Grid16'
- import Grid17 from '@/components/Services/Grid17'
- import Grid18 from '@/components/Services/Grid18'
- import Grid19 from '@/components/Services/Grid19'
+ import Grid20 from '@/components/Services/Grid20'
+ import Grid21 from '@/components/Services/Grid21'
+ import Grid22 from '@/components/Services/Grid22'
+ import Grid23 from '@/components/Services/Grid23'
+
+
  import PartnerStyle1 from '@/components/Common/PartnerStyle1'
  import Head from 'next/head'
 const Services = () => {
@@ -75,15 +73,13 @@ const Services = () => {
             </div>
 <Servicesvideo4/>
 <PartnerStyle1/>
-<Grid12/>
-<Grid13/>
-<Grid14/>
-<Grid15/>
-<Grid16/>
-<Grid17/>
-<Grid18/>
-<Grid19/>
-            <KeyFeatures2 />
+<Grid20/>
+<Grid21/>
+<Grid22/>
+<Grid23/>
+
+
+            <KeyFeatures4 />
 
             {/* <div className="ptb-100">
                 <AppDownloadStyle1 />
