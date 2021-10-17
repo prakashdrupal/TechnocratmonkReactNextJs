@@ -1,8 +1,8 @@
 import React from 'react'
-import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
+import NavbarStyleOne from '@/components/_App/NavbarStyle'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
-import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
-import FooterStyleOne from '@/components/_App/FooterStyleOne'
+// import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
+import FooterStyleOne from '@/components/_App/FooterStyle'
  
 const PrivacyPolicy = () => {
     return (
@@ -19,46 +19,61 @@ const PrivacyPolicy = () => {
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
                     <div className="privacy-policy-content">
-                        <h6>Overview</h6>
-                        <p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make <a href="/privacy-policy">available</a> on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, company name. We will collect personal <strong>identification</strong> information from Users only if they voluntarily consent such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+                        <h1>Privacy Policy</h1>
+                        <p>This Privacy Policy is intended to inform you regarding the personal information that may be collected through Technocrat monk and how we use, share, and protect that information. By using this site, you agree to this Privacy Policy, and as such we strongly encourage our visitors to reach through this content regularly to stay informed of its contents and any changes. In the following policy, “we, us, and site” are used to refer to Technocrat Monk.</p>
 
-                        <h5>General permission to use and access and use limitations</h5>
-                        <p>This site is provided by <strong>Texap</strong>. <strong>Texap</strong> collects information in several ways from different parts of this site.</p>
-                        <p><strong>1.</strong> Complimentary ground shipping within 1 to 7 business days<br />
-                            <strong>2.</strong> In-store collection available within 1 to 7 business days<br />
-                            <strong>3.</strong> Next-day and Express delivery options also available<br />
-                            <strong>4.</strong> Purchases are delivered in an orange box tied with a Bolduc ribbon, with the exception of certain items<br />
-                            <strong>5.</strong> See the delivery FAQs for details on shipping methods, costs and delivery times
-                        </p>
+                        <h4>Applicability of this Privacy Policy</h4>
+                        <p>This Privacy Policy reflects the information that is collected and shared via technocratmonk.com. For other distribution channels (email, social media, etc.) different rules may apply.</p>
+                        
 
-                        <h4>Confidential information</h4>
-                        <p><strong>Texap</strong> accepts the following payment methods:</p>
-                        <ul>
-                            <li>Credit Card: <strong>Visa</strong>, <strong>MasterCard</strong>, <strong>Discover</strong>, <strong>American Express</strong>, <strong>JCB</strong>, <strong>Visa Electron</strong>. The total will be charged to your card when the order is shipped.</li>
-                            <li><strong>Texap</strong> features a Fast Checkout option, allowing you to securely save your credit card details so that you don't have to re-enter them for future purchases.</li>
-                            <li>PayPal: Shop easily online without having to enter your credit card details on the website.Your account will be charged once the order is completed. To register for a PayPal account, visit the website <a href="/privacy-policy" target="_blank">paypal.com.</a></li>
-                        </ul>
+                        <h4>Use of Information</h4>
+                        <p>In efforts to better serve your needs, Technocrat Monk collects and stores personal information that you choose to voluntarily provide through our contact forms and other means of communication in which you provide your information. The information collected may include but is not limited to your name, email address, phone number, and resume. The website may also auto-collect information to improve your user experience including your IP address, browser type, operating system, referring URLs, and actions taken on the site. This information may be used to offer you an improved user experience, to improve our site to better serve your needs, or to send periodic emails that may be relevant to your needs, respond to inquiries, questions and/or other requests.<br/>
 
-                        <h3>Linking to this Site</h3>
-                        <p>Items returned within 14 days of their original shipment date in same as new condition will be eligible for a full refund or store credit. Refunds will be charged back form of payment used for purchase. Customer is responsible for shipping charges when making returns and shipping/handling fees of original purchase is non-refundable.</p>
+We value your information, and protect your privacy by utilizing this information only in a way that best benefits you. Technocrat Monk does not rent, sell, or share personal information about you with other people or non-affiliated companies without your explicit approval outside of the following purposes:</p>
+                       
 
-                        <h2>Intellectual property</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget euismod erat, sit amet vulputate enim. Etiam enim tellus, maximus vel augue sed, pharetra hendrerit orci. Vivamus sed massa in nibh imperdiet mattis quis sed augue. Pellentesque erat metus, vestibulum nec nisl.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget euismod erat, sit amet vulputate enim. Etiam enim tellus.</p>
+                        <h4>To provide products or services you’ve requested</h4>
+                        <p>To provide the information to trusted entities who work on behalf of or with Technocrat Monk under strict confidentiality agreements in order to help us communicate with you regarding relevant offers from Technocrat Monk and our marketing partners. These companies do not have any independent right to further share or disseminate this information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims<br/>
 
-                        <h1>Security and storage</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget euismod erat, sit amet vulputate enim. Etiam enim tellus.</p>
-                        <ol>
-                            <li>Credit Card: <strong>Visa</strong>, <strong>MasterCard</strong>, <strong>Discover</strong>, <strong>American Express</strong>, <strong>JCB</strong>, <strong>Visa Electron</strong>. The total will be charged to your card when the order is shipped.</li>
-                            <li><strong>Texap</strong> features a Fast Checkout option, allowing you to securely save your credit card details so that you don't have to re-enter them for future purchases.</li>
-                            <li>PayPal: Shop easily online without having to enter your credit card details on the website.Your account will be charged once the order is completed. To register for a PayPal account, visit the website <a href="https://www.paypal.com/bd/home" target="_blank">paypal.com.</a></li>
-                        </ol>
-                        <p>Last updated: January 25, 2021 at 24:00 pm</p>
+To share the information in order to investigate, prevent, or take action against any illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law<br/>
+
+To transfer information about you if Technocrat Monk is acquired by or merged with another company</p>
+
+                        <h4>Secured Information</h4>
+                        <p>We adopt best industry standards for data collection, storage, processing practices and security measures to protect you against unauthorized access, alteration, disclosure or destruction of your personal information.</p>
+
+                        <h4>Cookies</h4>
+                        <p>Our site may use “cookies” to enhance and personalize your user experience. Cookies are generated by a your web browser for record-keeping purposes and to track information regarding your website navigation. Permission of Cookies can be modified through your own personal settings. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent – however doing so may limit the functionalities of the site performance. Cookies are also be used for security purposes, website statistical data, pages visited, files downloaded, and user path.</p>
+                        
+                        <h4>Links to Other Websites</h4>
+                        <p>In order to provide additional information or services, Technocrat Monk may include links to external websites. Clicking on such a link will navigate you away from Technocrat monk’s site. Other site’s privacy practices may differ from our own. We do not endorse or make any representations regarding third-party websites. When clicking off the Technocrat Monk site, we strongly encourage you to visit the other site’s Privacy Policy to ensure it meets the standards of your own personal preferences.</p>
+
+<h4>Compliance with the Children’s Online Privacy Protection Act</h4>
+<p>Protecting the privacy of children is important. The content of this site is not intended to attract or engage any individuals under the age of 13. For that reason, we never collect or maintain information at our site from those we under the age of 13.</p>
+
+<h4>Your Information, Your Choices</h4>
+<p>If you choose to no longer receive email notifications from Technocrat Monk, you are free at any time to unsubscribe in order to cease from receiving these types of notifications. If you have provided us with your information, you may request to update, modify or delete as deemed necessary by contacting us.</p>
+
+<h4>Changes to this privacy policy</h4>
+<p>Technocrat Monk retains the right to update this Privacy Policy at our discretion at any time. For benefit of your open awareness and knowledge, we make every effort to notify users of policy changes. Prior versions of this policy are retained for records. We encourage our users to frequently check this page for any possible changes to stay informed on how we protect your personal information.</p>
+
+<h4>Your Acceptance of These Terms</h4>
+<p>By using this site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our site. Your continued use of the site now or following the posting of changes to this policy will be deemed as your acceptance to the site and any changes.</p>
+
+<h4>Contacting us</h4>
+<p>If you have any questions regarding our Privacy Policy, the practices of this site, or your dealings withtechnocratmonk.com, please contact through our Contact Form, or with the following information:</p>
+                        
+<h2>Technocrat Monk</h2>
+<p>Call: +91-7428022946<br/>
+
+F-15, Second Floor, Okhla, Phase -1<br/>
+
+New Delhi, 110020   </p>                
                     </div>
                 </div>
             </div>
 
-            <AppDownloadStyle2 />
+            {/* <AppDownloadStyle2 /> */}
  
             <FooterStyleOne />
         </>

@@ -9,7 +9,7 @@ const FooterStyleOne = () => {
 
     return (
         <>
-            <div className="footer-area">
+            <div className="footer-area pb-4">
                 <div className="container">
                     <div className="footer-content">
                         <Link href="/">
