@@ -38,14 +38,10 @@ const FooterStyleOne = () => {
                         </ul>
 
                         <ul className="navbar-nav">
+                            
                             <li className="nav-item">
-                                <Link href="/services">
-                                    <a className="nav-link">Services</a>
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link href="/contact">
-                                    <a className="nav-link">Support</a>
+                                <Link href="/about-us">
+                                    <a className="nav-link">About Us</a>
                                 </Link>
                             </li>
                             <li className="nav-item">
@@ -53,18 +49,18 @@ const FooterStyleOne = () => {
                                     <a className="nav-link">Privacy Policy</a>
                                 </Link>
                             </li>
-                            <li className="nav-item">
-                                <Link href="/faq">
-                                    <a className="nav-link">FAQ's</a>
-                                </Link>
-                            </li>
+                           
                             <li className="nav-item">
                                 <Link href="/contact">
                                     <a className="nav-link">Contact</a>
                                 </Link>
                             </li>
                         </ul>
+<p className="text-white"><strong>Office Address:</strong> F-15, Okhla, Phase 1, New Delhi, 110020</p>
 
+<p className="text-white">Phone: +91-7428022946, +91-98108 07382</p>
+
+<p ><a href="mailto:info@technocratmonk.com" className="text-white">info@technocratmonk.com</a></p>
                         <p className="copyright">Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://www.technocratmonk.com/" target="_blank">Technocratmonk</a></p>
                     </div>
                 </div>
