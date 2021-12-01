@@ -98,11 +98,20 @@ const NavbarStyleTwo = () => {
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
+                                                <Link href="/seo-case-study" activeClassName="active">
+                                                    <a onClick={toggleNavbar} className="nav-link">SEO Case Study </a>
+                                                </Link>
+                                            </li>
+                                            <li className="nav-item">
                                                 <Link href="/youtube-video-marketing" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">Youtube Video Marketing </a>
                                                 </Link>
                                             </li>
-                                            
+                                            <li className="nav-item">
+                                                <Link href="/react-js" activeClassName="active">
+                                                    <a onClick={toggleNavbar} className="nav-link">React Js </a>
+                                                </Link>
+                                            </li>
                                         </ul>
                                     </li>
 

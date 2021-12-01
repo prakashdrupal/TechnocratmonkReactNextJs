@@ -1370,4 +1370,46 @@ Partner Area CSS
     height: 55%;
   }
 }
+.case-study{ float:left; width: 100%!important; list-style: disc!important;    padding-left: 0px!important; }
+.case-study li{ float:left; width: 100%!important;    margin-bottom: 0px !important;}
+.step_img {
+  text-align: center;
+}
+.step_img img{ width: 60%;}
+
+.react_services {
+  float: left;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.black_light{    float: left;
+  width: 100%;
+  background: #1d1d1d;}
+  .software_ul ul{ float:left; padding: 0;    width: 100%; margin-bottom: 0;}
+  .software_ul ul li{ float: left;
+    color: #fff;
+    width: 25%;
+    padding-bottom: 10px;
+    font-size: 16px;}
+.line_height1{line-height:92px}
+.line_height2{line-height:59px}
+.features_row{ margin-bottom: 20px;}
+.software_ul ul li::marker{
+  color: #42b847 !important;
+}
+.gt-step-numb {
+  font-size: 180px;
+  line-height: 160px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  position: relative;
+  color: rgb(82 79 79 / 10%);
+}
+.bussiness_grid {
+  text-align: center;
+}
+.bussiness_grid ul{ padding: 0px; width: 42%; margin: 0 auto;}
+.bussiness_grid ul li{ text-align: left;font-size: 16px;}
+
+
 /*# sourceMappingURL=home-two.css.map */
