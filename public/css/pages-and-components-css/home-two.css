@@ -1370,8 +1370,8 @@ Partner Area CSS
     height: 55%;
   }
 }
-.case-study{ float:left; width: 100%!important; list-style: disc!important;    padding-left: 0px!important; }
-.case-study li{ float:left; width: 100%!important;    margin-bottom: 0px !important;}
+.case-study{ float:left; width: 100%!important; list-style: disc!important;  padding-left: 30px!important;}
+.case-study li{ float:left; width: 100%!important;     color: var(--paragraphColor);   margin-bottom: 0px !important;}
 .step_img {
   text-align: center;
 }

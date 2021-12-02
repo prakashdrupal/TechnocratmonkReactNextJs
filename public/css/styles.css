@@ -38,7 +38,7 @@ style add
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap');
 /* Global Variables */
 :root {
-  --fontSize: 14px;
+  --fontSize: 16px;
   --transition: .5s;
   --mainColor: #ED2775;
   --whiteColor: #ffffff;

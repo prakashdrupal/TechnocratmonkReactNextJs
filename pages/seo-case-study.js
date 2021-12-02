@@ -197,7 +197,7 @@ received the project.</p>
                     </div>
                 </div>
             </div>
-            <div className="features-area pt-75 pb-100">
+            <div className="features-area  pb-100">
                 <div className="container">
                 <div className="row align-items-center">
                <div className="col-lg-12 col-md-12">
